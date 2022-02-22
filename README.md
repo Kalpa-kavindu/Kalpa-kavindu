@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning to build Mobile and Desktop applications
 - 💞️ I’m looking to collaborate on Website building projects
 - 📫 How to reach me
--- 📧 kalpakavindurathnaweera@gmail.com
--- 🌐 t.me/kalpakavindu [Recomended]
+  - 📧 kalpakavindurathnaweera@gmail.com
+  - 🌐 t.me/kalpakavindu [Recomended]
 
 <!---
 Kalpa-kavindu/Kalpa-kavindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
