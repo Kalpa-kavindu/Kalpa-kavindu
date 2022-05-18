@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kalpa-kavindu
-- 😁 @Kalpa-dev is my other github account
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning to build Mobile and Desktop applications
-- 💞️ I’m looking to collaborate on Website building projects
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me
   - 📧 kalpakavindurathnaweera@gmail.com
   - 🌐 https://t.me/kalpakavindu [Recomended]
